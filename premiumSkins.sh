@@ -296,7 +296,7 @@ wget configs-web.agario.miniclippt.com/live/v5/414/Icy_Braid_hi.png -O icy_braid
 wget configs-web.agario.miniclippt.com/live/v5/414/Berserker_hi.png -O berserker.png
 wget configs-web.agario.miniclippt.com/live/v5/414/Champion_hi.png -O champion.png
 wget configs-web.agario.miniclippt.com/live/v5/414/Jotun_hi.png -O jotun.png
-wget configs-web.agario.miniclippt.com/live/v5/414/ArcheryKing_hi.png -O archery_king.png
+#wget configs-web.agario.miniclippt.com/live/v5/414/ArcheryKing_hi.png -O archery_king.png
 wget configs-web.agario.miniclippt.com/live/v5/414/creatures_root_gnome_hi.png -O root_gnome.png
 wget configs-web.agario.miniclippt.com/live/v5/414/creatures_hobgoblin_hi.png -O hobgoblin.png
 wget configs-web.agario.miniclippt.com/live/v5/414/creatures_pixie_hi.png -O pixie.png
