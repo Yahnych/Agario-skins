@@ -143,4 +143,3 @@ wget configs-web.agario.miniclippt.com/live/v5/474/RayDay_hi.png -O rayday.png
 wget configs-web.agario.miniclippt.com/live/v5/474/Sirius_hi.png -O sirius.png
 wget configs-web.agario.miniclippt.com/live/v5/474/TYT_hi.png -O tyt.png
 wget configs-web.agario.miniclippt.com/live/v5/474/Matjoy_hi.png -O matjoy.png
-ddsdf
