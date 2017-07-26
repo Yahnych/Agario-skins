@@ -357,4 +357,3 @@ wget configs-web.agario.miniclippt.com/live/v5/474/master_of_thieves_jade_hi.png
 wget configs-web.agario.miniclippt.com/live/v5/474/valentines_day_2017_choco_heart_hi.png -O choco_heart.png
 wget configs-web.agario.miniclippt.com/live/v5/474/valentines_day_2017_strawberry_hi.png -O strawberry.png
 wget configs-web.agario.miniclippt.com/live/v5/474/valentines_day_2017_love_arrow_hi.png -O love_arrow.png
-fdggdf
