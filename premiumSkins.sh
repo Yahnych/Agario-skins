@@ -1,4 +1,3 @@
-
 wget configs-web.agario.miniclippt.com/live/v7/886/Banana_hi.png -O banana.png
 wget configs-web.agario.miniclippt.com/live/v7/886/Cookie_hi.png -O cookie.png
 wget configs-web.agario.miniclippt.com/live/v7/886/Jupiter_hi.png -O jupiter.png
