@@ -1,4 +1,4 @@
-configVersion=v9/1175
+configVersion=v9/1178
 wget configs-web.agario.miniclippt.com/live/$configVersion/Banana_hi.png -O banana.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/Cookie_hi.png -O cookie.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/Jupiter_hi.png -O jupiter.png
@@ -604,3 +604,6 @@ wget configs-web.agario.miniclippt.com/live/$configVersion/future_art_hi.png -O 
 wget configs-web.agario.miniclippt.com/live/$configVersion/groovy_canvas_hi.png -O groovy_canvas.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/space_ink_hi.png -O space_ink.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/alien_artist_hi.png -O alien_artist.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_nicedoggy_hi.png -O nice_doggy.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_cavetroll_hi.png -O cave_troll.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_crazyeye_hi.png -O crazy_eye.png
