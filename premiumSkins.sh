@@ -1,4 +1,4 @@
-configVersion=v9/1178
+configVersion=v9/1206
 wget configs-web.agario.miniclippt.com/live/$configVersion/Banana_hi.png -O banana.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/Cookie_hi.png -O cookie.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/Jupiter_hi.png -O jupiter.png
@@ -607,3 +607,13 @@ wget configs-web.agario.miniclippt.com/live/$configVersion/alien_artist_hi.png -
 wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_nicedoggy_hi.png -O nice_doggy.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_cavetroll_hi.png -O cave_troll.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_crazyeye_hi.png -O crazy_eye.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/cog_attack_hi.png -O cog_attack.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/power_glove_hi.png -O power_glove.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/burner_hi.png -O burner.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/som_circle_hi.png -O circle.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/som_coolguy_hi.png -O cool_guy.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/som_furious_hi.png -O furious.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/mgs_ada_hi.png -O ada.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/mgs_watson_hi.png -O watson.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/mgs_steamdiver_hi.png -O steam_diver.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2018_pisces_hi.png -O zodiac_2018_pisces.png
