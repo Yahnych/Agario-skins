@@ -1,4 +1,4 @@
-configVersion=v9/1206
+configVersion=v9/1272
 wget configs-web.agario.miniclippt.com/live/$configVersion/Banana_hi.png -O banana.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/Cookie_hi.png -O cookie.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/Jupiter_hi.png -O jupiter.png
@@ -617,3 +617,21 @@ wget configs-web.agario.miniclippt.com/live/$configVersion/mgs_ada_hi.png -O ada
 wget configs-web.agario.miniclippt.com/live/$configVersion/mgs_watson_hi.png -O watson.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/mgs_steamdiver_hi.png -O steam_diver.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2018_pisces_hi.png -O zodiac_2018_pisces.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/mgs_crazy_bolt_hi.png -O crazy_bolt.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/mgs_mechanicat_hi.png -O mechanicat.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/mgs_steam_mask_hi.png -O steam_mask.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_flyingsaucer_hi.png -O flying_saucer.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_infernus_hi.png -O infernus.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_shadowman_hi.png -O shadow_man.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/tms_soceress_hi.png -O sorceress.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/tms_gnomemage_hi.png -O gnome_mage.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/tms_elvennoble_hi.png -O elven_noble.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/som_teatime_hi.png -O tea_time.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/som_necktiecat_hi.png -O necktie_cat.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/som_bigeyes_hi.png -O big_eyes.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/tms_forestspirit_hi.png -O forest_spirit.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/tms_sillygriffin_hi.png -O silly_griffin.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/tms_rowdyshroom_hi.png -O rowdy_shroom.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/tms_skullartifact_hi.png -O skull_artifact.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/tms_candlelight_hi.png -O candlelight.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/tms_troldir_hi.png -O troldir.png
