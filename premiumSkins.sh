@@ -1,4 +1,4 @@
-configVersion=v9/1272
+configVersion=v9/1304
 wget configs-web.agario.miniclippt.com/live/$configVersion/Banana_hi.png -O banana.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/Cookie_hi.png -O cookie.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/Jupiter_hi.png -O jupiter.png
@@ -635,3 +635,12 @@ wget configs-web.agario.miniclippt.com/live/$configVersion/tms_rowdyshroom_hi.pn
 wget configs-web.agario.miniclippt.com/live/$configVersion/tms_skullartifact_hi.png -O skull_artifact.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/tms_candlelight_hi.png -O candlelight.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/tms_troldir_hi.png -O troldir.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/tms_spikeflower_hi.png -O spike_flower.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/tms_sunflower_hi.png -O sunflower.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/tms_hornet_hi.png -O hornet.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_wolfsigil_hi.png -O wolf_sigil.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_eternalsnake_hi.png -O eternal_snake.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_pyramideye_hi.png -O pyramid_eye.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/fss_sweettendril_hi.png -O sweet_tendril.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/fss_jellybear_hi.png -O jelly_bear.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/fss_candytroll_hi.png -O candy_troll.png
