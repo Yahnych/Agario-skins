@@ -1,4 +1,4 @@
-configVersion=v9/1304
+configVersion=v9/1326
 wget configs-web.agario.miniclippt.com/live/$configVersion/poland_hi.png -O poland.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/usa_hi.png -O usa.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/china_hi.png -O china.png
@@ -144,3 +144,6 @@ wget configs-web.agario.miniclippt.com/live/$configVersion/RayDay_hi.png -O rayd
 wget configs-web.agario.miniclippt.com/live/$configVersion/Sirius_hi.png -O sirius.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/TYT_hi.png -O tyt.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/Matjoy_hi.png -O matjoy.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/Timid_Agario_hi.png -O Timid.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/Togoman_hi.png -O Togoman.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/Zone_hi.png -O Zone.png
