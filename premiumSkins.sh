@@ -1,4 +1,4 @@
-configVersion=v9/1304
+configVersion=v9/1326
 wget configs-web.agario.miniclippt.com/live/$configVersion/Banana_hi.png -O banana.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/Cookie_hi.png -O cookie.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/Jupiter_hi.png -O jupiter.png
@@ -644,3 +644,15 @@ wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_pyramid
 wget configs-web.agario.miniclippt.com/live/$configVersion/fss_sweettendril_hi.png -O sweet_tendril.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/fss_jellybear_hi.png -O jelly_bear.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/fss_candytroll_hi.png -O candy_troll.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/som_theorist_hi.png -O theorist.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/som_grandma_hi.png -O grandma.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/som_chirpyraptor_hi.png -O chirpy_raptor.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/fss_sourcandy_hi.png -O sour_candy.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/fss_sugardash_hi.png -O sugar_dash.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/fss_chipcookie_hi.png -O chip_cookie.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/fss_slartie_hi.png -O slartie.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/fss_madmuffin_hi.png -O mad_muffin.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/fss_candygenius_hi.png -O candy_genious.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_omega_hi.png -O omega.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_frosthand_hi.png -O frost_hand.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_radicalsmile_hi.png -O radical_hand.png
