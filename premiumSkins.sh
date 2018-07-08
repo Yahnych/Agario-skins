@@ -1,4 +1,4 @@
-configVersion=v9/1352
+configVersion=v9/1476
 wget configs-web.agario.miniclippt.com/live/$configVersion/Banana_hi.png -O banana.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/Cookie_hi.png -O cookie.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/Jupiter_hi.png -O jupiter.png
@@ -659,3 +659,30 @@ wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_radical
 wget configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v1_bull_skull_hi.png -O bull_skull.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v1_the_stranger_hi.png -O the_stranger.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v1_wild_pepper_hi.png -O wild_pepper.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v2_suplex_hi.png -O suplex.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v2_mariachi_hi.png -O mariachi.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v2_feather_dragon_hi.png -O feather_dragon.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_v4_surprised_cat_hi.png -O surprised_cat.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_v4_idea_hi.png -O idea.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_v4_clever_hi.png -O clever.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v3_dynamite_hi.png -O dynamite.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v3_cactus_flower_hi.png -O cactus_flower.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v3_pepe_loco_hi.png -O pepe_loco.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_lead_hi.png -O lead.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_wolfpaw_hi.png -O wolf_paw.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_helmet_hi.png -O helmet.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/mjzs_skullswords_hi.png -O skull_swords.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/mjzs_surfinbird_hi.png -O surfin_bird.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/mjzs_jellydiver_hi.png -O jelly_diver.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/june_merchant_v2_power_mask_hi.png -O power_mask.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/june_merchant_v2_spike_fish_hi.png -O spike_fish.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/june_merchant_v2_cool_lion_hi.png -O cool_lion.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/bootlegger_hi.png -O bootlegger.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/deadly_piranha_hi.png -O deadly_piranha.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/madjawz_hi.png -O madjawz.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_v5_heavy_metal_hi.png -O heavy_metal.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_v5_prankster_hi.png -O prankster.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_v5_wacky_hyena_hi.png -O wacky_hyena.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_ice_griffin_hi.png -O ice_griffin.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_golden_axe_hi.png -O golden_axe.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_demonic_helmet_hi.png -O demonic_helmet.png
