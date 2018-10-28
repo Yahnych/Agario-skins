@@ -1,152 +1,152 @@
-configVersion=v9/1676
-wget configs-web.agario.miniclippt.com/live/$configVersion/poland_hi.png -O poland.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/usa_hi.png -O usa.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/china_hi.png -O china.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/russia_hi.png -O russia.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/canada_hi.png -O canada.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/australia_hi.png -O australia.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/spain_hi.png -O spain.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/brazil_hi.png -O brazil.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/germany_hi.png -O germany.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/ukraine_hi.png -O ukraine.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/france_hi.png -O france.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/sweden_hi.png -O sweden.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/north_korea_hi.png -O north\ korea.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/south_korea_hi.png -O south\ korea.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/japan_hi.png -O japan.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/united_kingdom_hi.png -O united\ kingdom.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/earth_hi.png -O earth.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/greece_hi.png -O greece.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/latvia_hi.png -O latvia.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/lithuania_hi.png -O lithuania.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/estonia_hi.png -O estonia.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/finland_hi.png -O finland.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/norway_hi.png -O norway.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/cia_hi.png -O cia.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/Maldives_hi.png -O maldives.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/austria_hi.png -O austria.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/nigeria_hi.png -O nigeria.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/reddit_hi.png -O reddit.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/yaranaika_hi.png -O yaranaika.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/9gag_hi.png -O 9gag.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/indiana_hi.png -O indiana.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/4chan_hi.png -O 4chan.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/italy_hi.png -O italy.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/bulgaria_hi.png -O bulgaria.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/2ch_hk_hi.png -O 2ch.hk.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/hong_kong_hi.png -O hong\ kong.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/portugal_hi.png -O portugal.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/jamaica_hi.png -O jamaica.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/mexico_hi.png -O mexico.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/sanik_hi.png -O sanik.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/switzerland_hi.png -O switzerland.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/croatia_hi.png -O croatia.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/chile_hi.png -O chile.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/indonesia_hi.png -O indonesia.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/bangladesh_hi.png -O bangladesh.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/thailand_hi.png -O thailand.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/iran_hi.png -O iran.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/iraq_hi.png -O iraq.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/peru_hi.png -O peru.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/moon_hi.png -O moon.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/botswana_hi.png -O botswana.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/bosnia_hi.png -O bosnia.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/netherlands_hi.png -O netherlands.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/european_union_hi.png -O european\ union.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/taiwan_hi.png -O taiwan.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/pakistan_hi.png -O pakistan.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/hungary_hi.png -O hungary.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/qing_dynasty_hi.png -O qing\ dynasty.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/matriarchy_hi.png -O matriarchy.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/patriarchy_hi.png -O patriarchy.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/feminism_hi.png -O feminism.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/ireland_hi.png -O ireland.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/texas_hi.png -O texas.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/facepunch_hi.png -O facepunch.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/prodota_hi.png -O prodota.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/cambodia_hi.png -O cambodia.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/steam_hi.png -O steam.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/piccolo_hi.png -O piccolo.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/ea_hi.png -O ea.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/india_hi.png -O india.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/denmark_hi.png -O denmark.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/quebec_hi.png -O quebec.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/ayy_lmao_hi.png -O ayy\ lmao.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/sealand_hi.png -O sealand.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/bait_hi.png -O bait.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/origin_hi.png -O origin.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/vinesauce_hi.png -O vinesauce.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/belgium_hi.png -O belgium.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/luxembourg_hi.png -O luxembourg.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/stussy_hi.png -O stussy.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/8ch_hi.png -O 8ch.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/argentina_hi.png -O argentina.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/scotland_hi.png -O scotland.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/sir_hi.png -O sir.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/romania_hi.png -O romania.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/wojak_hi.png -O wojak.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/doge_hi.png -O doge.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/nasa_hi.png -O nasa.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/byzantium_hi.png -O byzantium.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/french_kingdom_hi.png -O french\ kingdom.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/somalia_hi.png -O somalia.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/turkey_hi.png -O turkey.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/mars_hi.png -O mars.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/pokerface_hi.png -O pokerface.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/irs_hi.png -O irs.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/receita_federal_hi.png -O receita\ federal.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/8_hi.png -O 8.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/tsipras_hi.png -O tsipras.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/berlusconi_hi.png -O berlusconi.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/blatter_hi.png -O blatter.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/boris_hi.png -O boris.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/bush_hi.png -O bush.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/cameron_hi.png -O cameron.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/chavez_hi.png -O chavez.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/clinton_hi.png -O clinton.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/cuba_hi.png -O cuba.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/dilma_hi.png -O dilma.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/fidel_hi.png -O fidel.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/hillary_hi.png -O hillary.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/hollande_hi.png -O hollande.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/merkel_hi.png -O merkel.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/obama_hi.png -O obama.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/palin_hi.png -O palin.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/putin_hi.png -O putin.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/queen_hi.png -O queen.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/trump_hi.png -O trump.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/venezuela_hi.png -O venezuela.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/Colombia_hi.png -O colombia.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/Soccer_hi.png -O football.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/varoufakis_hi.png -O varoufakis.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/House_of_Cards_hi.png -O underwood.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/chaplin_hi.png -O chaplin.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/confederate_hi.png -O confederate.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/tumblr_hi.png -O tumblr.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/german_empire_hi.png -O german\ empire.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/satanist_hi.png -O satanist.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/kc_hi.png -O kc.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/tsarist_russia_hi.png -O tsarist\ russia.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/stalin_hi.png -O stalin.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/prussia_hi.png -O prussia.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/imperial_japan_hi.png -O imperial\ japan.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/facebook_hi.png -O facebook.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/kim_jong_un_hi.png -O kim\ jong-un.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/birthday_cake_hi.png -O agario.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/Yellow_hi.png -O Pika.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/Blue_hi.png -O Squi.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/Green_hi.png -O Bulba.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/Red_hi.png -O Char.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/Crystal_hi.png -O crystal.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/Kristoffer_hi.png -O kristoffer.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/n0psa_hi.png -O n0psa.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/RayDay_hi.png -O rayday.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/Sirius_hi.png -O sirius.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/TYT_hi.png -O tyt.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/Matjoy_hi.png -O matjoy.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/Timid_Agario_hi.png -O Timid.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/Togoman_hi.png -O Togoman.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/Zone_hi.png -O Zone.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/SneddyGaming_hi.png -O Sneddy\ Gaming.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/GetDeadKid_hi.png -O GetDeadKid.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/Ashwin_hi.png -O Ashwin.png
+configVersion=v9/1746
+wget configs-web.agario.miniclippt.com/live/$configVersion/poland.png -O poland.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/usa.png -O usa.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/china.png -O china.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/russia.png -O russia.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/canada.png -O canada.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/australia.png -O australia.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/spain.png -O spain.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/brazil.png -O brazil.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/germany.png -O germany.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/ukraine.png -O ukraine.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/france.png -O france.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/sweden.png -O sweden.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/north_korea.png -O north\ korea.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/south_korea.png -O south\ korea.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/japan.png -O japan.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/united_kingdom.png -O united\ kingdom.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/earth.png -O earth.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/greece.png -O greece.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/latvia.png -O latvia.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/lithuania.png -O lithuania.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/estonia.png -O estonia.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/finland.png -O finland.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/norway.png -O norway.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/cia.png -O cia.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/Maldives.png -O maldives.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/austria.png -O austria.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/nigeria.png -O nigeria.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/reddit.png -O reddit.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/yaranaika.png -O yaranaika.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/9gag.png -O 9gag.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/indiana.png -O indiana.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/4chan.png -O 4chan.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/italy.png -O italy.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/bulgaria.png -O bulgaria.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/2ch_hk.png -O 2ch.hk.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/hong_kong.png -O hong\ kong.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/portugal.png -O portugal.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/jamaica.png -O jamaica.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/mexico.png -O mexico.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/sanik.png -O sanik.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/switzerland.png -O switzerland.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/croatia.png -O croatia.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/chile.png -O chile.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/indonesia.png -O indonesia.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/bangladesh.png -O bangladesh.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/thailand.png -O thailand.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/iran.png -O iran.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/iraq.png -O iraq.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/peru.png -O peru.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/moon.png -O moon.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/botswana.png -O botswana.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/bosnia.png -O bosnia.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/netherlands.png -O netherlands.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/european_union.png -O european\ union.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/taiwan.png -O taiwan.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/pakistan.png -O pakistan.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/hungary.png -O hungary.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/qing_dynasty.png -O qing\ dynasty.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/matriarchy.png -O matriarchy.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/patriarchy.png -O patriarchy.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/feminism.png -O feminism.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/ireland.png -O ireland.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/texas.png -O texas.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/facepunch.png -O facepunch.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/prodota.png -O prodota.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/cambodia.png -O cambodia.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/steam.png -O steam.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/piccolo.png -O piccolo.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/ea.png -O ea.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/india.png -O india.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/denmark.png -O denmark.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/quebec.png -O quebec.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/ayy_lmao.png -O ayy\ lmao.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/sealand.png -O sealand.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/bait.png -O bait.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/origin.png -O origin.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/vinesauce.png -O vinesauce.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/belgium.png -O belgium.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/luxembourg.png -O luxembourg.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/stussy.png -O stussy.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/8ch.png -O 8ch.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/argentina.png -O argentina.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/scotland.png -O scotland.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/sir.png -O sir.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/romania.png -O romania.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/wojak.png -O wojak.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/doge.png -O doge.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/nasa.png -O nasa.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/byzantium.png -O byzantium.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/french_kingdom.png -O french\ kingdom.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/somalia.png -O somalia.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/turkey.png -O turkey.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/mars.png -O mars.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/pokerface.png -O pokerface.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/irs.png -O irs.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/receita_federal.png -O receita\ federal.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/8.png -O 8.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/tsipras.png -O tsipras.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/berlusconi.png -O berlusconi.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/blatter.png -O blatter.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/boris.png -O boris.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/bush.png -O bush.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/cameron.png -O cameron.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/chavez.png -O chavez.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/clinton.png -O clinton.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/cuba.png -O cuba.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/dilma.png -O dilma.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/fidel.png -O fidel.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/hillary.png -O hillary.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/hollande.png -O hollande.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/merkel.png -O merkel.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/obama.png -O obama.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/palin.png -O palin.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/putin.png -O putin.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/queen.png -O queen.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/trump.png -O trump.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/venezuela.png -O venezuela.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/Colombia.png -O colombia.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/Soccer.png -O football.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/varoufakis.png -O varoufakis.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/House_of_Cards.png -O underwood.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/chaplin.png -O chaplin.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/confederate.png -O confederate.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/tumblr.png -O tumblr.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/german_empire.png -O german\ empire.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/satanist.png -O satanist.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/kc.png -O kc.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/tsarist_russia.png -O tsarist\ russia.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/stalin.png -O stalin.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/prussia.png -O prussia.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/imperial_japan.png -O imperial\ japan.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/facebook.png -O facebook.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/kim_jong_un.png -O kim\ jong-un.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/birthday_cake.png -O agario.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/Yellow.png -O Pika.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/Blue.png -O Squi.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/Green.png -O Bulba.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/Red.png -O Char.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/Crystal.png -O crystal.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/Kristoffer.png -O kristoffer.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/n0psa.png -O n0psa.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/RayDay.png -O rayday.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/Sirius.png -O sirius.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/TYT.png -O tyt.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/Matjoy.png -O matjoy.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/Timid_Agario.png -O Timid.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/Togoman.png -O Togoman.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/Zone.png -O Zone.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/SneddyGaming.png -O Sneddy\ Gaming.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/GetDeadKid.png -O GetDeadKid.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/Ashwin.png -O Ashwin.png
