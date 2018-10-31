@@ -1,4 +1,4 @@
-configVersion=v9/1746
+configVersion=v9/1770
 wget configs-web.agario.miniclippt.com/live/$configVersion/Banana.png -O banana.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/Cookie.png -O cookie.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/Jupiter.png -O jupiter.png
@@ -659,6 +659,19 @@ wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_radical
 wget configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v1_bull_skull.png -O bull_skull.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v1_the_stranger.png -O the_stranger.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v1_wild_pepper.png -O wild_pepper.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/cookie_mouse.png -O cookie_mouse.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/planet_cat.png -O planet_cat.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/poker_ace.png -O poker_ace.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/vampy.png -O vampy.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/fox_mask.png -O fox_mask.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/love_cat.png -O love_cat.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/mr_goose.png -O mr_goose.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/nutcracker.png -O nutcracker.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/piglet.png -O piglet.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/lava_beast.png -O lava_beast.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/astral_deer.png -O astral_deer.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/bionic_ram.png -O bionic_ram.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/hyper_coffee.png -O hyper_coffee.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v2_suplex.png -O suplex.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v2_mariachi.png -O mariachi.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v2_feather_dragon.png -O feather_dragon.png
@@ -756,3 +769,4 @@ wget configs-web.agario.miniclippt.com/live/$configVersion/blobby_boy.png -O blo
 wget configs-web.agario.miniclippt.com/live/$configVersion/dracool.png -O dracool.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/silent_nun.png -O silent_nun.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/minotaur.png -O minotaur.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/golf_battle.png -O golf_battle.png
