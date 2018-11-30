@@ -1,776 +1,781 @@
-configVersion=v9/1789
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Banana.png -O banana.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Cookie.png -O cookie.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Jupiter.png -O jupiter.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Birdie.png -O birdie.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Mercury.png -O mercury.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Apple.png -O apple.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Good.png -O good.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Neptune.png -O neptune.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Blackhole.png -O blackhole.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Uranus.png -O uranus.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Starball.png -O starball.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Target.png -O target.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Galaxy.png -O galaxy.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Venus.png -O venus.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Breakfast.png -O breakfast.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Saturn.png -O saturn.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Pluto.png -O pluto.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Tiger_Pattern.png -O tigerpattern.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Hot_Dog.png -O hotdog.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Heart.png -O heart.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Mouse.png -O mouse.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Wolf.png -O wolf.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Goldfish.png -O goldfish.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/pig.png -O pig.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Blueberry_Face.png -O blueberry.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Bomb.png -O bomb.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Bowling.png -O bowling.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Candy.png -O candy.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Frog.png -O frog.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Hamburguer.png -O hamburguer.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Nose.png -O nose.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Seal.png -O seal.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Panda.png -O panda.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Pizza.png -O pizza.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Snowman.png -O snowman.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Sun.png -O sun.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Baseball.png -O baseball.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Basketball.png -O basketball.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Bug.png -O bug.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Cloud.png -O cloud.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Muu.png -O muu.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Tomato_Face.png -O tomatoface.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Mushroom.png -O mushroom.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Donuts.png -O donuts.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Terrible.png -O terrible.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/ghost.png -O ghost.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Apple_Face.png -O appleface.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Turtle.png -O turtle.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/BroFist.png -O brofist.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Dog.png -O dog.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/FootPrint.png -O footprint.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Pineapple_Face.png -O pineappleface.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Zebra_Pattern.png -O zebrapattern.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/toon.png -O toon.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Octopus.png -O octopus.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Radar.png -O radar.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Eye.png -O eye.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Owl.png -O owl.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Virus.png -O virus.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/smile.png -O smile.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Army.png -O army.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Cat.png -O cat.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Nuclear.png -O nuclear.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Toxic.png -O toxic.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Doggie.png -O doggie.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/face.png -O face.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Willie.png -O willie.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Luchador.png -O luchador.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zombie.png -O zombie.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Bite.png -O bite.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Crazy.png -O crazy.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Hockey.png -O hockey.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Jar_Brain.png -O jarbrain.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Evil.png -O evil.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Pirate.png -O pirate.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/evil_eye.png -O evileye.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Halloween.png -O halloween.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Monster.png -O monster.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Scarecrow.png -O scarecrow.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Spy.png -O spy.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/X-mas.png -O santa.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/GingerBreadMan.png -O gingerbread.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Grinch.png -O grinch.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Fly.png -O fly.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Spider.png -O spider.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Wasp.png -O wasp.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Lizard.png -O lizard.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Bat.png -O bat.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Snake.png -O snake.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Fox.png -O fox.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Coyote.png -O coyote.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Hunter.png -O hunter.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Sumo.png -O sumo.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Bear.png -O bear.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Cougar.png -O cougar.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Panther.png -O panther.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Lion.png -O lion.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Crocodile.png -O crocodile.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Shark.png -O shark.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Mammoth.png -O mammoth.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Raptor.png -O raptor.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/T-Rex.png -O t_rex.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Kraken.png -O kraken.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/CupCake.png -O cupcake.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/KissBoy.png -O kiss_boy.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/KissGirl.png -O kiss_girl.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Cupid.png -O cupid.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Shuttle.png -O shuttle.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Astronaut.png -O astronaut.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Laika.png -O space_dog.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Grey.png -O grey.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Comet.png -O meteor.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/UFO.png -O ufo.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Rocket.png -O rocket.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Boot.png -O boot.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Gold_Pot.png -O gold_pot.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Hat.png -O hat.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Horse_Shoe.png -O horse_shoe.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Leaf_Clover.png -O leaf_clover.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Leprechaun.png -O leprechaun.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Rainbow.png -O rainbow.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Choco_Egg.png -O choco_egg.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Carrot.png -O carrot.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Easter_Island.png -O easter_island.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Rooster.png -O rooster.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Rabbit.png -O rabbit.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/AprilFool.png -O april_fool.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/EarthDay.png -O earth_day.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Chihuahua.png -O chihuahua.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Cactus.png -O cactus.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Sombrero.png -O sombrero.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/ChilliPepper.png -O hot_pepper.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/ChupaCabra.png -O chupacabra.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Tortilha.png -O taco.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Pinhata.png -O pinata.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Dragon.png -O dragon.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Gargoyle.png -O gargoyle.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Gopher.png -O gopher.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Sheep.png -O sheep.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Thirteen.png -O thirteen.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/BlackCat.png -O black_cat.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Crow.png -O crow.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Mask.png -O mask.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Witch.png -O goblin.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/GreenMan.png -O greenman.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/SlimeFace.png -O slimeface.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/JellyBlob.png -O jellyblob.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/AlienX.png -O invader.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/SpaceHunter.png -O spacehunter.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Soccer_Ball.png -O soccerball.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Glub.png -O glub.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Soccer_Shoe.png -O soccer_shoe.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Player_2.png -O striker.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Player_1.png -O starplayer.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/TenderHeart_Bear.png -O tender_heart_bear.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/FunShine_Bear.png -O funshine_bear.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/BrightHeart_Racoon.png -O bright_heart_raccoon.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/CozyHeart_Penguin.png -O cozy_heart_penguin.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/LotsaHeart_Elephant.png -O lotsa_heart_elephant.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/BraveHeart_Lion.png -O brave_heart_lion.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Crazy_Ball.png -O crazy_ball.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Sky_Rocket.png -O skyrocket.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Stars_and_Stripes.png -O stars_stripes.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Mighty.png -O mighty.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Uncle_Sam.png -O uncle_sam.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Eagle.png -O eagle.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Liberty.png -O liberty.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Mummy_Ball.png -O dust_brain.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Eye_Ball.png -O oculus_orbus.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/BaseballSmile_Ball.png -O screamin_meamie.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Cyclop_Ball.png -O hornhead.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/SkullBrain_Ball.png -O skull_face.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Sunbath.png -O sunbath.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Watermelon.png -O watermelon.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/StarFish.png -O starfish.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/IcecreamFace.png -O icecream.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Surfer.png -O surfer.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Diver.png -O diver.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_sanik.png -O birthday_sanik.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_wojak.png -O birthday_wojak.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_cia.png -O birthday_cia.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_sir.png -O birthday_sir.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_doge.png -O birthday_doge.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_lol.png -O birthday_lol.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_troll.png -O birthday_troll.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/food_Cofee.png -O hot_coffee.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/food_Juice_Can.png -O soda_can.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/food_Jelly_Face.png -O jelly.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/food_French_Fries.png -O fries.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/food_Hamburguer.png -O burger_face.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/food_Terminita.png -O hard_shroom.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/food_Chicken_Leg.png -O drumstick.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rio_tennis.png -O tennist.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rio_gymnastic.png -O gymnast.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rio_judo.png -O judo_fighter.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rio_swimmer.png -O swimmer.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rio_athletic.png -O sprinter.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rio_mico.png -O mico.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rio_toco.png -O toco.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Pirates_Parrot.png -O parrot.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Pirates_Rascal.png -O rascal.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Pirates_PirateGirl.png -O pirate_maiden.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Pirates_SkullPirate.png -O captain_skull.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Pirates_Captain.png -O black_beard.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Pirates_CannonBall.png -O cannonball.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Pirates_Monkey.png -O mad_monkey.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Sports_Target.png -O bullseye.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Sports_Fencing.png -O touche.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Sports_BoxingGlub.png -O jab.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Sports_Golf.png -O backswing.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Sports_Volleyball.png -O spike.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Sports_PingPong.png -O smash.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Sports_Basketball.png -O dunk.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Alien2_Gamma.png -O gamma.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Alien2_Neila.png -O neila.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Alien2_Omicron.png -O omicron.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Alien2_Vega.png -O vega.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Alien2_Smyg.png -O smyg.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Journey_WhiteHorse.png -O white_horse.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Journey_Monk.png -O monk.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Journey_WaterSpirit.png -O water_spirit.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Journey_Boar.png -O boar.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Journey_Kong.png -O kong.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Journey_BullKing.png -O bull_king.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Journey_JadeDragon.png -O jade_dragon.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Treasure_Squiggly.png -O treasure_squiggly.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Treasure_SeaExplorer.png -O treasure_explorer.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Autumn_Squirrel.png -O squirrel.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Autumn_Acorn.png -O acorn.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Autumn_Maple.png -O maple.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Autumn_Badger.png -O badger.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Autumn_Prey.png -O prey.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Autumn_Sly.png -O sly.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Autumn_Faun.png -O faun.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Island_Pinehead.png -O pinehead.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Island_Sea_Turtle.png -O sea_turtle.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Island_Volcano.png -O volcano.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Island_Coconuts.png -O coconuts.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Island_Warrior.png -O warrior.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Island_Seer.png -O seer.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Island_Scar.png -O scar.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Dead_Viper.png -O viper.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Dead_Biker.png -O biker.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Dead_DesertFox.png -O desert_fox.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Dead_Ranger.png -O ranger.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Dead_Devourer.png -O devourer.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Dead_Raider.png -O raider.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Dead_Nuke.png -O nuke.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Nuclear_ToxicEater.png -O toxic_eater.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Nuclear_Ogre.png -O ogre.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Nuclear_Scavenger.png -O scavenger.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Nuclear_Marauder.png -O marauder.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Nuclear_Mutant.png -O mutant.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Nuclear_Ooze.png -O ooze.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Nuclear_Hazmat.png -O hazmat.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/HappyWeekend_Croc.png -O happy_croc.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Undead.png -O undead.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Phantom.png -O phantom.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Werewolf.png -O werewolf.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Mummy.png -O mummy.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Vampire.png -O vampire.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Frankenstein.png -O frankenstein.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Pumpkin.png -O pumpkin.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Masked.png -O masked.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Skull_Cactus.png -O skull_cactus.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Skeleton.png -O skeleton.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Infernando.png -O infernando.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Calavera.png -O calavera.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Poison_Rose.png -O poison_rose.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Calaca.png -O calaca.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/SH_MajorEagle.png -O major_eagle.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/SH_X_Ray.png -O xray.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/SH_TigerMan.png -O the_tiger.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/SH_StarGirl.png -O star_sentinel.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/SH_IronKnight.png -O iron_titan.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/SH_ArachnoKid.png -O cyber_kid.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/SH_OmegaBlast.png -O omega_blast.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/SH_DrCosmos.png -O dr_cosmos.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Terra.png -O terra.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Aqua.png -O aqua.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Aer.png -O aer.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Ignis.png -O ignis.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Colossus.png -O colossus.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Dark_Matter.png -O dark_matter.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Pie_Slice.png -O pie_slice.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Pilgrim.png -O pilgrim.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Virginia.png -O virginia.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Thanksgiving_Turkey.png -O turkey.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Mr_Pumpkin.png -O mr_pumpkin.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Happy.png -O happy.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Bread.png -O bread.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Pug.png -O pug.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Winter_Wolf.png -O winter_wolf.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Viking.png -O viking.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Icy_Braid.png -O icy_braid.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Berserker.png -O berserker.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Champion.png -O champion.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/Jotun.png -O jotun.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/ArcheryKing_Skin.png -O archery_king.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/creatures_root_gnome.png -O root_gnome.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/creatures_hobgoblin.png -O hobgoblin.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/creatures_pixie.png -O pixie.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/creatures_basilisk.png -O basilisk.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/creatures_firebird.png -O firebird.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/creatures_magic_gerbil.png -O magic_gerbil.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/creatures_gryphon.png -O gryphon.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/creatures_dark_wings.png -O dark_wings.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/dawn_cyber_guard.png -O cyber_guard.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/dawn_star_pilot.png -O star_pilot.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/dawn_cosmo_pirate.png -O cosmo_pirate.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/dawn_moon_ship.png -O moon_ship.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/dawn_space_warden.png -O space_warden.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/dawn_evil_master.png -O evil_master.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/xmas_2016_reindeer.png -O reindeer.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/xmas_2016_elf_helper.png -O elf_helper.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/xmas_2016_santa_claus.png -O santa_claus.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/xmas_2016_polar_bear.png -O polar_bear.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/xmas_2016_penguin.png -O penguin.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/new_year_2016_flying_cork.png -O flying_cork.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/new_year_2016_happy_soda.png -O happy_soda.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/beast_fighters_goat.png -O bruiser_goat.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/beast_fighters_bunny.png -O rogue_bunny.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/beast_fighters_rhino.png -O rhino_boxer.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/beast_fighters_bull.png -O street_bull.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/beast_fighters_husky.png -O husky_brawl.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/beast_fighters_tiger.png -O kempo_tiger.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/time_travel_best_friends.png -O best_friends.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/time_travel_chrono_ranger.png -O chrono_ranger.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/time_travel_cool_agent.png -O cool_agent.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/time_travel_time_dude.png -O time_dude.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/time_travel_time_doctor.png -O time_doctor.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/friday_the_13th_2017_wicked_cat.png -O wicked_cat.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/retro_duck_target.png -O duck_target.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/retro_bubblesaurus.png -O bubblesaurus.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/retro_dynamite_guy.png -O dynamite_guy.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/retro_neon_bug.png -O neon_bug.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/retro_blue_swirl.png -O blue_swirl.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/retro_jumper.png -O jumper.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/chinese_new_year_carp.png -O carp.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/chinese_new_year_china_dragon.png -O china_dragon.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/chinese_new_year_dumpling.png -O dumpling.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/chinese_new_year_chicken.png -O chicken.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/chinese_new_year_fire_rooster.png -O fire_rooster.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rock_stars_heartbreaker.png -O heartbreaker.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rock_stars_virtuoso.png -O virtuoso.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rock_stars_rocker.png -O rocker.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rock_stars_idol.png -O idol.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rock_stars_poet.png -O poet.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rock_stars_superstar.png -O superstar.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rock_stars_bad_boy.png -O bad_boy.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/master_of_thieves_thief.png -O thief.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/master_of_thieves_sheriff.png -O sheriff.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/master_of_thieves_king.png -O king.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/master_of_thieves_merry_outlaw.png -O merry_outlaw.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/master_of_thieves_tiny_jack.png -O tiny_jack.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/master_of_thieves_jade.png -O jade.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/valentines_day_2017_choco_heart.png -O choco_heart.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/valentines_day_2017_strawberry.png -O strawberry.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/valentines_day_2017_love_arrow.png -O love_arrow.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/monthly_web_bunny.png -O bunny.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/carnival_2017_palm_tree.png -O palm_tree.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/carnival_2017_samba.png -O samba.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/carnival_2017_mountain.png -O mountain.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/carnival_2017_bird_mask.png -O bird_mask.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/carnival_2017_trickster.png -O trickster.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/carnival_2017_golden_mask.png -O golden_mask.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rock_legends_2_performer.png -O performer.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rock_legends_2_diva.png -O diva.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rock_legends_2_songsmith.png -O songsmith.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rock_legends_2_icon.png -O icon.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rock_legends_2_metal_face.png -O metal_face.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rock_legends_2_soloist.png -O soloist.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/jungle_quest_huntsman.png -O huntsman.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/jungle_quest_war_paint.png -O war_paint.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/jungle_quest_behemoth.png -O behemoth.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/jungle_quest_general.png -O general.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/jungle_quest_giant_skull.png -O giant_skull.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/jungle_quest_great_zilla.png -O great_zilla.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/st_patricks_2017_horse_boot.png -O horse_boot.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/st_patricks_2017_happy_hat.png -O happy_hat.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/st_patricks_2017_bad_clover.png -O bad_clover.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/st_patricks_2017_gold_rush.png -O gold_rush.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/st_patricks_2017_red_beard.png -O red_beard.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/st_patricks_2017_cloud_prism.png -O cloud_prism.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_aries.png -O aries.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/monthly_web_coil.png -O coil.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/excalibur_2017_cat_cauldron.png -O cat_cauldron.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/excalibur_2017_seal_knight.png -O seal_knight.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/excalibur_2017_mystic_bird.png -O mystic_bird.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/excalibur_2017_king_lion.png -O king_lion.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/excalibur_2017_excalibur.png -O excalibur.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/excalibur_2017_magic_hat.png -O magic_hat.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/april_fools_2017_funny_face.png -O funny_face.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/april_fools_2017_air_bag.png -O air_bag.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/april_fools_2017_smelly.png -O smelly.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/ghost_machine_cyber_agent.png -O cyber_agent.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/ghost_machine_droid.png -O droid.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/ghost_machine_detective.png -O detective.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/beast_fighters_ii_skin_karate_parrot.png -O karate_parrot.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/beast_fighters_ii_skin_raccoon_jutsu.png -O raccoon_jutsu.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/beast_fighters_ii_skin_frog_thai.png -O frog_thai.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/easter_2017_easter_chick.png -O easter_chick.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/easter_2017_wacky_egg.png -O wacky_egg.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/easter_2017_cool_bunny.png -O cool_bunny.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_skin_taurus.png -O taurus.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/action_heroes_v1_skin_destroyer.png -O destroyer.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/action_heroes_v1_skin_storm_fist.png -O storm_fist.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/action_heroes_v1_skin_war_hero.png -O war_hero.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/monthly_web_eyeball.png -O eyeball.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/space_pirates_starfighter.png -O starfighter.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/space_pirates_power_badger.png -O power_badger.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/space_pirates_alien_tree.png -O alien_tree.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/cinco_mayo_2017_crazy_sombrero.png -O crazy_sombrero.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/cinco_mayo_2017_maracas.png -O maracas.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/cinco_mayo_2017_hot_taco.png -O hot_taco.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/stone_age_sabertooth.png -O sabertooth.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/stone_age_silver_tusk.png -O silver_tusk.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/stone_age_primal.png -O primal.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/stone_age_amber.png -O amber.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/stone_age_stone_tool.png -O stone_tool.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/stone_age_fire_face.png -O fire_face.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_skin_gemini.png -O gemini.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/anime_wacky_hero.png -O wacky_hero.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/anime_fallen.png -O fallen.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/anime_power_girl.png -O power_girl.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/anime_skull_ribbon.png -O skull_ribbon.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/anime_eyepatch.png -O eyepatch.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/anime_mega_power.png -O mega_power.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/pet_balls_jellyfish.png -O jellyfish_ball.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/pet_balls_walrus.png -O walrus_ball.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/pet_balls_bat.png -O bat_ball.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/pet_balls_elephant.png -O elephant_ball.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/pet_balls_sheep.png -O sheep_ball.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/pet_balls_pig.png -O pig_ball.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/action_heroes_v2_apocalypse_rider.png -O apocalypse_rider.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/action_heroes_v2_eclipse_hunter.png -O eclipse_hunter.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/action_heroes_v2_universal_ranger.png -O universal_ranger.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/action_heroes_v2_slaughter.png -O slaughter.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/action_heroes_v2_slingblade.png -O slingblade.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/action_heroes_v2_the_professional.png -O the_professional.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mechanos_sonic_boom.png -O sonic_boom.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mechanos_cyber_scarab.png -O cyber_scarab.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mechanos_haste.png -O haste.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mechanos_psycho_driller.png -O psycho_driller.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mechanos_supremus.png -O supremus.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mechanos_yellow_streak.png -O yellow_streak.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mechanos_mechatron.png -O mechatron.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_cancer.png -O cancer.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/independence_day_2017_star_eagle.png -O star_eagle.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/independence_day_2017_celebration_hat.png -O celebration_hat.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/independence_day_2017_mr_boss.png -O mr_boss.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/monthly_web_fury_cat.png -O fury_cat.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/gladiators_helm.png -O helm.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/gladiators_gladiatrix.png -O gladiatrix.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/gladiators_reptilian.png -O reptilian.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/gladiators_orc_grunt.png -O orc_grunt.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/gladiators_cursed_blade.png -O cursed_blade.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/gladiators_orc_warrior.png -O orc_warrior.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_hungry.png -O hungry.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_queasy.png -O queasy.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_lovesick.png -O lovesick.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_sad.png -O sad.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_bitter.png -O bitter.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_amazed.png -O amazed.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_odd.png -O odd.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_funky.png -O funky.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_angry.png -O angry.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_vicious.png -O vicious.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_skin_leo.png -O leo.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_sweaty.png -O sweaty.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_wicked.png -O wicked.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_full.png -O full.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_tough.png -O tough.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_mischievous.png -O mischievous.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_dazzled.png -O dazzled.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_nerdy.png -O nerdy.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_rabid.png -O rabid.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_delighted.png -O delighted.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_cool.png -O cool.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zombie_party_dry_face.png -O dry_face.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zombie_party_crazy_brain.png -O crazy_brain.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zombie_party_zombie_dog.png -O zombie_dog.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zombie_party_zombie_party.png -O zombie_party.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zombie_party_walking_hand.png -O walking_hand.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zombie_party_the_maw.png -O the_maw.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rpg_games_rogue.png -O rogue.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rpg_games_archer.png -O archer.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rpg_games_paladin.png -O paladin.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rpg_games_mage.png -O mage.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rpg_games_scroll.png -O scroll.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rpg_games_raid_boss.png -O raid_boss.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/rpg_games_healing_potion.png -O healing_potion.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/arcade_games_gold_coin.png -O gold_coin.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/arcade_games_super_car.png -O super_car.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/arcade_games_war_tank.png -O war_tank.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/arcade_games_pixel_kong.png -O pixel_kong.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/arcade_games_power_fighter.png -O power_fighter.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/arcade_games_techno_kid.png -O techno_kid.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_virgo.png -O virgo.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/war_wings.png -O war_wings.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/olympus_hercules.png -O olympus_hercules.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/olympus_poseidon.png -O olympus_poseidon.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/olympus_medusa.png -O olympus_medusa.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/olympus_hades.png -O olympus_hades.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/olympus_ares.png -O olympus_ares.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/olympus_zeus.png -O olympus_zeus.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/nvr_zap.png -O nvr_zap.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/nvr_silent_fox.png -O nvr_silent_fox.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/nvr_insectoid.png -O nvr_insectoid.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/nvr_shuriken.png -O nvr_shuriken.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/nvr_steel_ram.png -O nvr_steel_ram.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/nvr_shadow.png -O nvr_shadow.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/football_strike.png -O football_strike.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/steamworld_cogs.png -O steamworld_cogs.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/steamworld_dr_static.png -O steamworld_dr_static.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/steamworld_steam_freak.png -O steamworld_steam_freak.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/dragon_griffin.png -O dragon_griffin.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/dragon_twin.png -O dragon_twin.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/dragon_hydra.png -O dragon_hydra.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/steamworld_think_tank.png -O steamworld_think_tank.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/steamworld_can_man.png -O steamworld_can_man.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/steamworld_the_tinker.png -O steamworld_the_tinker.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/dragon_razor.png -O dragon_razor.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/dragon_haze.png -O dragon_haze.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/dragon_viper.png -O dragon_viper.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_libra.png -O zodiac_2017_libra.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/egypt_ankh.png -O egypt_ankh.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/egypt_cleopatra.png -O egypt_cleopatra.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/egypt_pharaoh.png -O egypt_pharaoh.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/egypt_egyptian_cat.png -O egypt_egyptian_cat.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/egypt_scarab.png -O egypt_scarab.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/egypt_mummy_king.png -O egypt_mummy_king.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/egypt_anubis.png -O egypt_anubis.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/samurai_shogun.png -O shogun.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/samurai_elder_master.png -O elder_master.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/samurai_geisha.png -O geisha.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/samurai_war_mask.png -O war_mask.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/samurai_rogue_samurai.png -O rogue_samurai.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/samurai_skull_samurai.png -O skull_samurai.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_skin_scorpio.png -O zodiac_2017_scorpio.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/moonlight_metal_ghoul.png -O moonlight_metal_ghoul.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/moonlight_psycho.png -O moonlight_psycho.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/moonlight_banshee.png -O moonlight_banshee.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/moonlight_wendigo.png -O moonlight_wendigo.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/moonlight_red_fiend.png -O moonlight_red_fiend.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/moonlight_night_hunter.png -O moonlight_night_hunter.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/anime_mega_mecha.png -O mega_mecha.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/anime_spinner_kid.png -O spinner_kid.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/anime_bolt_samurai.png -O bolt_samurai.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/anime_skull_bow.png -O skull_bow.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/anime_power_ninja.png -O power_ninja.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/anime_giant_human.png -O giant_human.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/monthly_web_husky.png -O husky.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/winter_snowboarder.png -O winter_snowboarder.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/winter_white_owl.png -O winter_white_owl.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/winter_goofy_yeti.png -O winter_goofy_yeti.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/winter_ice_crystal.png -O winter_ice_crystal.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/winter_dire_wolf.png -O winter_dire_wolf.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/winter_ice_lord.png -O winter_ice_lord.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_sagittarius.png -O zodiac_2017_sagittarius.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/circus_ringmaster.png -O ringmaster.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/circus_burly_man.png -O burly_man.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/circus_firespitter.png -O firespitter.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/circus_the_oracle.png -O the_oracle.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/circus_grizzly.png -O grizzly.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/circus_bullet_man.png -O bullet_man.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/circus_wicked_clown.png -O wicked_clown.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/meme_alone.png -O alone.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/meme_yuno.png -O yuno.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/meme_rage.png -O rage.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/apocalypse_the_gaunt.png -O the_gaunt.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/apocalypse_the_miasma.png -O the_miasma.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/apocalypse_the_scorcher.png -O the_scorcher.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/apocalypse_the_reaper.png -O the_reaper.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/apocalypse_skin_scythe.png -O scythe.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/apocalypse_skin_soul_hunter.png -O soul_hunter.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/apocalypse_skin_warhorse.png -O warhorse.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/santa_mad_cap.png -O mad_cap.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/santa_raspy_elf.png -O raspy_elf.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/santa_zany_tree.png -O zany_tree.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/santa_rocket_deer.png -O rocket_deer.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/santa_snow_biker.png -O snow_biker.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/santa_bad_santa.png -O bad_santa.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_skin_capricorn.png -O zodiac_2017_capricorn.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/last_master_space_warrior.png -O last_master_space_warrior.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/last_master_roller_bot.png -O last_master_roller_bot.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/last_master_duel_master.png -O last_master_duel_master.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/last_master_elite_pilot.png -O last_master_elite_pilot.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/last_master_cyber_commando.png -O last_master_cyber_commando.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/last_master_red_pulse.png -O last_master_red_pulse.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/alien_spogh.png -O spogh.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/alien_shrieker.png -O shrieker.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/alien_moon_alisa.png -O moon_alisa.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/party_time.png -O party_time.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/party_mode.png -O party_mode.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/artshop_pencil.png -O pencil.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/artshop_splatter.png -O splatter.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/artshop_gouache.png -O gouache.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2018_aquarius.png -O zodiac_2018_aquarius.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/walrus_art.png -O walrus_art.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/cave_painting.png -O cave_painting.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/future_art.png -O future_art.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/groovy_canvas.png -O groovy_canvas.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/space_ink.png -O space_ink.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/alien_artist.png -O alien_artist.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_nicedoggy.png -O nice_doggy.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_cavetroll.png -O cave_troll.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_crazyeye.png -O crazy_eye.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/cog_attack.png -O cog_attack.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/power_glove.png -O power_glove.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/burner.png -O burner.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/som_circle.png -O circle.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/som_coolguy.png -O cool_guy.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/som_furious.png -O furious.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mgs_ada.png -O ada.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mgs_watson.png -O watson.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mgs_steamdiver.png -O steam_diver.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2018_pisces.png -O zodiac_2018_pisces.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mgs_crazy_bolt.png -O crazy_bolt.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mgs_mechanicat.png -O mechanicat.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mgs_steam_mask.png -O steam_mask.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_flyingsaucer.png -O flying_saucer.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_infernus.png -O infernus.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_shadowman.png -O shadow_man.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/tms_soceress.png -O sorceress.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/tms_gnomemage.png -O gnome_mage.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/tms_elvennoble.png -O elven_noble.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/som_teatime.png -O tea_time.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/som_necktiecat.png -O necktie_cat.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/som_bigeyes.png -O big_eyes.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/tms_forestspirit.png -O forest_spirit.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/tms_sillygriffin.png -O silly_griffin.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/tms_rowdyshroom.png -O rowdy_shroom.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/tms_skullartifact.png -O skull_artifact.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/tms_candlelight.png -O candlelight.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/tms_troldir.png -O troldir.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/tms_spikeflower.png -O spike_flower.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/tms_sunflower.png -O sunflower.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/tms_hornet.png -O hornet.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_wolfsigil.png -O wolf_sigil.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_eternalsnake.png -O eternal_snake.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_pyramideye.png -O pyramid_eye.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/fss_sweettendril.png -O sweet_tendril.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/fss_jellybear.png -O jelly_bear.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/fss_candytroll.png -O candy_troll.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/som_theorist.png -O theorist.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/som_grandma.png -O grandma.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/som_chirpyraptor.png -O chirpy_raptor.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/fss_sourcandy.png -O sour_candy.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/fss_sugardash.png -O sugar_dash.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/fss_chipcookie.png -O chip_cookie.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/fss_slartie.png -O slartie.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/fss_madmuffin.png -O mad_muffin.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/fss_candygenius.png -O candy_genious.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_omega.png -O omega.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_frosthand.png -O frost_hand.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_radicalsmile.png -O radical_hand.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v1_bull_skull.png -O bull_skull.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v1_the_stranger.png -O the_stranger.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v1_wild_pepper.png -O wild_pepper.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/cookie_mouse.png -O cookie_mouse.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/planet_cat.png -O planet_cat.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/poker_ace.png -O poker_ace.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/vampy.png -O vampy.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/fox_mask.png -O fox_mask.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/love_cat.png -O love_cat.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mr_goose.png -O mr_goose.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/nutcracker.png -O nutcracker.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/piglet.png -O piglet.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/lava_beast.png -O lava_beast.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/astral_deer.png -O astral_deer.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/bionic_ram.png -O bionic_ram.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/hyper_coffee.png -O hyper_coffee.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v2_suplex.png -O suplex.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v2_mariachi.png -O mariachi.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v2_feather_dragon.png -O feather_dragon.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_v4_surprised_cat.png -O surprised_cat.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_v4_idea.png -O idea.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_v4_clever.png -O clever.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v3_dynamite.png -O dynamite.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v3_cactus_flower.png -O cactus_flower.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v3_pepe_loco.png -O pepe_loco.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_lead.png -O lead.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_wolfpaw.png -O wolf_paw.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_helmet.png -O helmet.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mjzs_skullswords.png -O skull_swords.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mjzs_surfinbird.png -O surfin_bird.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mjzs_jellydiver.png -O jelly_diver.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/june_merchant_v2_power_mask.png -O power_mask.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/june_merchant_v2_spike_fish.png -O spike_fish.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/june_merchant_v2_cool_lion.png -O cool_lion.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/bootlegger.png -O bootlegger.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/deadly_piranha.png -O deadly_piranha.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/madjawz.png -O madjawz.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_v5_heavy_metal.png -O heavy_metal.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_v5_prankster.png -O prankster.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_v5_wacky_hyena.png -O wacky_hyena.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_ice_griffin.png -O ice_griffin.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_golden_axe.png -O golden_axe.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_demonic_helmet.png -O demonic_helmet.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/july_merchant_v1_caribbean_corsair.png -O caribbean_corsair.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/july_merchant_v1_deathly_mine.png -O deathly_mine.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/july_merchant_v1_fake_chest.png -O fake_chest.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/july_merchant_v2_mecha_toad.png -O mecha_toad.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/july_merchant_v2_mecha_parrot.png -O mecha_parrot.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/july_merchant_v2_mecha_destroyer.png -O mecha_destroyer.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2018_birthday_blob.png -O birthday_blob.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/grumpy_frog.png -O grumpy_frog.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/tooth_troll.png -O tooth_troll.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/birthosaur.png -O birthosaur.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/captain_joe.png -O capn_joe.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/eager_alien.png -O eager_alien.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/guardian.png -O guardian.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_death_mouse.png -O death_mouse.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_killer_mask.png -O killer_mask.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_egyptian_plague.png -O egyptian_plague.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/bountyhunter_neptunus_spider.png -O neptunus_spider.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/bountyhunter_mutant_herb.png -O mutant_herb.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/merchant_electronic_girl.png -O electronic_girl.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/merchant_techno_ninja.png -O techno_ninja.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/merchant_cyber_punk.png -O cyber_punk.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/fantasy_portal_princess_swift.png -O princess_swift.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/fantasy_portal_dark_sorceress.png -O dark_sorceress.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/august_merchant_cyber_demon.png -O cyber_demon.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/august_merchant_cyber_psychic.png -O cyber_psychic.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/august_merchant_cyber_monk.png -O cyber_monk.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_guinea_pig.png -O guinea_pig.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_bad_pigeon.png -O bad_pigeon.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_awkward.png -O awkward.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/august_merchant_bass_bomb.png -O bass_bomb.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/august_merchant_techno_quack.png -O techno_quack.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/august_merchant_electro_jelly.png -O electro_jelly.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/august_merchant_lightning.png -O lightning.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/august_merchant_techno_kat.png -O techno_kat.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/august_merchant_bionic.png -O bionic.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_fallen_one.png -O fallen_one.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_midnight_yeti.png -O midnight_yeti.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_defiled_scarecrow.png -O defiled_scarecrow.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/bountyhunter_leech.png -O leech.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/bountyhunter_metal_scorpion.png -O metal_scorpion.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/september_merchant_mad_fragment.png -O mad_fragment.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/september_merchant_ancient_relic.png -O ancient_relic.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/zula_gorgan.png -O zula_gorgon.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/goddess_aona.png -O goddess_aona.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/evil_genie.png -O evil_genie.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/divine_pearl.png -O divine_pearl.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/unknown_totem.png -O unknown_totem.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mr_strange.png -O mr_strange.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mr_puzzled.png -O mr_puzzled.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mr_charming.png -O mr_charming.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/dumboon.png -O dumboon.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/ark_raider.png -O ark_raider.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/diamonds.png -O diamonds.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_spectral_owl.png -O spectral_owl.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_fire_golem.png -O fire_golem.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_cursed_samurai.png -O cursed_samurai.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/araneaphyx.png -O araneaphyx.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/necro_strangler.png -O necro_strangler.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/bewitched.png -O bewitched.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/monday_worker.png -O monday_worker.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/nightmare.png -O nightmare.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/wisgarus_dragonslayer.png -O wisgarus_dragonslayer.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/ironfist_titus.png -O ironfist_titus.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/wicked_vendetta.png -O wicked_vendetta.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/mexican_skull.png -O mexican_skull.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/frankie.png -O frankie.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/blobby_boy.png -O blobby_boy.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/dracool.png -O dracool.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/silent_nun.png -O silent_nun.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/minotaur.png -O minotaur.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/golf_battle.png -O golf_battle.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/beetoothven.png -O beetoothven.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/tape_guy.png -O tape_guy.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/chillpanzee.png -O chillpanzee.png
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/psychopanda.png -O psychopanda.png
+configVersion=v9/1819
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Banana.png -O banana.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Cookie.png -O cookie.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Jupiter.png -O jupiter.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Birdie.png -O birdie.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Mercury.png -O mercury.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Apple.png -O apple.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Good.png -O good.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Neptune.png -O neptune.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Blackhole.png -O blackhole.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Uranus.png -O uranus.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Starball.png -O starball.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Target.png -O target.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Galaxy.png -O galaxy.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Venus.png -O venus.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Breakfast.png -O breakfast.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Saturn.png -O saturn.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Pluto.png -O pluto.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Tiger_Pattern.png -O tigerpattern.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Hot_Dog.png -O hotdog.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Heart.png -O heart.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Mouse.png -O mouse.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Wolf.png -O wolf.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Goldfish.png -O goldfish.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/pig.png -O pig.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Blueberry_Face.png -O blueberry.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Bomb.png -O bomb.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Bowling.png -O bowling.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Candy.png -O candy.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Frog.png -O frog.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Hamburguer.png -O hamburguer.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Nose.png -O nose.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Seal.png -O seal.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Panda.png -O panda.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Pizza.png -O pizza.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Snowman.png -O snowman.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Sun.png -O sun.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Baseball.png -O baseball.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Basketball.png -O basketball.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Bug.png -O bug.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Cloud.png -O cloud.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Muu.png -O muu.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Tomato_Face.png -O tomatoface.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Mushroom.png -O mushroom.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Donuts.png -O donuts.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Terrible.png -O terrible.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/ghost.png -O ghost.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Apple_Face.png -O appleface.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Turtle.png -O turtle.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/BroFist.png -O brofist.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Dog.png -O dog.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/FootPrint.png -O footprint.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Pineapple_Face.png -O pineappleface.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Zebra_Pattern.png -O zebrapattern.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/toon.png -O toon.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Octopus.png -O octopus.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Radar.png -O radar.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Eye.png -O eye.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Owl.png -O owl.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Virus.png -O virus.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/smile.png -O smile.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Army.png -O army.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Cat.png -O cat.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Nuclear.png -O nuclear.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Toxic.png -O toxic.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Doggie.png -O doggie.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/face.png -O face.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Willie.png -O willie.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Luchador.png -O luchador.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zombie.png -O zombie.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Bite.png -O bite.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Crazy.png -O crazy.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Hockey.png -O hockey.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Jar_Brain.png -O jarbrain.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Evil.png -O evil.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Pirate.png -O pirate.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/evil_eye.png -O evileye.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Halloween.png -O halloween.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Monster.png -O monster.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Scarecrow.png -O scarecrow.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Spy.png -O spy.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/X-mas.png -O santa.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/GingerBreadMan.png -O gingerbread.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Grinch.png -O grinch.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Fly.png -O fly.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Spider.png -O spider.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Wasp.png -O wasp.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Lizard.png -O lizard.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Bat.png -O bat.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Snake.png -O snake.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Fox.png -O fox.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Coyote.png -O coyote.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Hunter.png -O hunter.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Sumo.png -O sumo.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Bear.png -O bear.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Cougar.png -O cougar.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Panther.png -O panther.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Lion.png -O lion.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Crocodile.png -O crocodile.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Shark.png -O shark.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Mammoth.png -O mammoth.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Raptor.png -O raptor.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/T-Rex.png -O t_rex.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Kraken.png -O kraken.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/CupCake.png -O cupcake.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/KissBoy.png -O kiss_boy.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/KissGirl.png -O kiss_girl.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Cupid.png -O cupid.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Shuttle.png -O shuttle.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Astronaut.png -O astronaut.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Laika.png -O space_dog.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Grey.png -O grey.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Comet.png -O meteor.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/UFO.png -O ufo.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Rocket.png -O rocket.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Boot.png -O boot.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Gold_Pot.png -O gold_pot.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Hat.png -O hat.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Horse_Shoe.png -O horse_shoe.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Leaf_Clover.png -O leaf_clover.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Leprechaun.png -O leprechaun.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Rainbow.png -O rainbow.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Choco_Egg.png -O choco_egg.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Carrot.png -O carrot.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Easter_Island.png -O easter_island.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Rooster.png -O rooster.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Rabbit.png -O rabbit.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/AprilFool.png -O april_fool.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/EarthDay.png -O earth_day.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Chihuahua.png -O chihuahua.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Cactus.png -O cactus.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Sombrero.png -O sombrero.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/ChilliPepper.png -O hot_pepper.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/ChupaCabra.png -O chupacabra.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Tortilha.png -O taco.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Pinhata.png -O pinata.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Dragon.png -O dragon.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Gargoyle.png -O gargoyle.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Gopher.png -O gopher.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Sheep.png -O sheep.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Thirteen.png -O thirteen.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/BlackCat.png -O black_cat.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Crow.png -O crow.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Mask.png -O mask.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Witch.png -O goblin.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/GreenMan.png -O greenman.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/SlimeFace.png -O slimeface.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/JellyBlob.png -O jellyblob.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/AlienX.png -O invader.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/SpaceHunter.png -O spacehunter.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Soccer_Ball.png -O soccerball.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Glub.png -O glub.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Soccer_Shoe.png -O soccer_shoe.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Player_2.png -O striker.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Player_1.png -O starplayer.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/TenderHeart_Bear.png -O tender_heart_bear.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/FunShine_Bear.png -O funshine_bear.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/BrightHeart_Racoon.png -O bright_heart_raccoon.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/CozyHeart_Penguin.png -O cozy_heart_penguin.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/LotsaHeart_Elephant.png -O lotsa_heart_elephant.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/BraveHeart_Lion.png -O brave_heart_lion.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Crazy_Ball.png -O crazy_ball.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Sky_Rocket.png -O skyrocket.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Stars_and_Stripes.png -O stars_stripes.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Mighty.png -O mighty.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Uncle_Sam.png -O uncle_sam.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Eagle.png -O eagle.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Liberty.png -O liberty.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Mummy_Ball.png -O dust_brain.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Eye_Ball.png -O oculus_orbus.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/BaseballSmile_Ball.png -O screamin_meamie.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Cyclop_Ball.png -O hornhead.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/SkullBrain_Ball.png -O skull_face.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Sunbath.png -O sunbath.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Watermelon.png -O watermelon.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/StarFish.png -O starfish.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/IcecreamFace.png -O icecream.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Surfer.png -O surfer.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Diver.png -O diver.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_sanik.png -O birthday_sanik.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_wojak.png -O birthday_wojak.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_cia.png -O birthday_cia.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_sir.png -O birthday_sir.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_doge.png -O birthday_doge.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_lol.png -O birthday_lol.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_troll.png -O birthday_troll.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/food_Cofee.png -O hot_coffee.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/food_Juice_Can.png -O soda_can.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/food_Jelly_Face.png -O jelly.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/food_French_Fries.png -O fries.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/food_Hamburguer.png -O burger_face.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/food_Terminita.png -O hard_shroom.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/food_Chicken_Leg.png -O drumstick.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rio_tennis.png -O tennist.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rio_gymnastic.png -O gymnast.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rio_judo.png -O judo_fighter.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rio_swimmer.png -O swimmer.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rio_athletic.png -O sprinter.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rio_mico.png -O mico.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rio_toco.png -O toco.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Pirates_Parrot.png -O parrot.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Pirates_Rascal.png -O rascal.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Pirates_PirateGirl.png -O pirate_maiden.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Pirates_SkullPirate.png -O captain_skull.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Pirates_Captain.png -O black_beard.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Pirates_CannonBall.png -O cannonball.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Pirates_Monkey.png -O mad_monkey.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Sports_Target.png -O bullseye.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Sports_Fencing.png -O touche.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Sports_BoxingGlub.png -O jab.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Sports_Golf.png -O backswing.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Sports_Volleyball.png -O spike.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Sports_PingPong.png -O smash.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Sports_Basketball.png -O dunk.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Alien2_Gamma.png -O gamma.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Alien2_Neila.png -O neila.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Alien2_Omicron.png -O omicron.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Alien2_Vega.png -O vega.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Alien2_Smyg.png -O smyg.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Journey_WhiteHorse.png -O white_horse.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Journey_Monk.png -O monk.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Journey_WaterSpirit.png -O water_spirit.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Journey_Boar.png -O boar.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Journey_Kong.png -O kong.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Journey_BullKing.png -O bull_king.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Journey_JadeDragon.png -O jade_dragon.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Treasure_Squiggly.png -O treasure_squiggly.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Treasure_SeaExplorer.png -O treasure_explorer.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Autumn_Squirrel.png -O squirrel.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Autumn_Acorn.png -O acorn.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Autumn_Maple.png -O maple.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Autumn_Badger.png -O badger.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Autumn_Prey.png -O prey.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Autumn_Sly.png -O sly.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Autumn_Faun.png -O faun.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Island_Pinehead.png -O pinehead.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Island_Sea_Turtle.png -O sea_turtle.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Island_Volcano.png -O volcano.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Island_Coconuts.png -O coconuts.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Island_Warrior.png -O warrior.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Island_Seer.png -O seer.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Island_Scar.png -O scar.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Dead_Viper.png -O viper.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Dead_Biker.png -O biker.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Dead_DesertFox.png -O desert_fox.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Dead_Ranger.png -O ranger.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Dead_Devourer.png -O devourer.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Dead_Raider.png -O raider.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Dead_Nuke.png -O nuke.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Nuclear_ToxicEater.png -O toxic_eater.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Nuclear_Ogre.png -O ogre.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Nuclear_Scavenger.png -O scavenger.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Nuclear_Marauder.png -O marauder.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Nuclear_Mutant.png -O mutant.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Nuclear_Ooze.png -O ooze.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Nuclear_Hazmat.png -O hazmat.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/HappyWeekend_Croc.png -O happy_croc.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Undead.png -O undead.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Phantom.png -O phantom.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Werewolf.png -O werewolf.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Mummy.png -O mummy.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Vampire.png -O vampire.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Frankenstein.png -O frankenstein.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Pumpkin.png -O pumpkin.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Masked.png -O masked.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Skull_Cactus.png -O skull_cactus.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Skeleton.png -O skeleton.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Infernando.png -O infernando.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Calavera.png -O calavera.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Poison_Rose.png -O poison_rose.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Calaca.png -O calaca.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/SH_MajorEagle.png -O major_eagle.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/SH_X_Ray.png -O xray.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/SH_TigerMan.png -O the_tiger.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/SH_StarGirl.png -O star_sentinel.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/SH_IronKnight.png -O iron_titan.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/SH_ArachnoKid.png -O cyber_kid.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/SH_OmegaBlast.png -O omega_blast.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/SH_DrCosmos.png -O dr_cosmos.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Terra.png -O terra.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Aqua.png -O aqua.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Aer.png -O aer.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Ignis.png -O ignis.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Colossus.png -O colossus.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Dark_Matter.png -O dark_matter.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Pie_Slice.png -O pie_slice.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Pilgrim.png -O pilgrim.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Virginia.png -O virginia.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Thanksgiving_Turkey.png -O turkey.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Mr_Pumpkin.png -O mr_pumpkin.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Happy.png -O happy.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Bread.png -O bread.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Pug.png -O pug.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Winter_Wolf.png -O winter_wolf.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Viking.png -O viking.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Icy_Braid.png -O icy_braid.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Berserker.png -O berserker.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Champion.png -O champion.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Jotun.png -O jotun.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/ArcheryKing_Skin.png -O archery_king.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/creatures_root_gnome.png -O root_gnome.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/creatures_hobgoblin.png -O hobgoblin.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/creatures_pixie.png -O pixie.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/creatures_basilisk.png -O basilisk.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/creatures_firebird.png -O firebird.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/creatures_magic_gerbil.png -O magic_gerbil.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/creatures_gryphon.png -O gryphon.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/creatures_dark_wings.png -O dark_wings.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/dawn_cyber_guard.png -O cyber_guard.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/dawn_star_pilot.png -O star_pilot.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/dawn_cosmo_pirate.png -O cosmo_pirate.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/dawn_moon_ship.png -O moon_ship.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/dawn_space_warden.png -O space_warden.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/dawn_evil_master.png -O evil_master.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/xmas_2016_reindeer.png -O reindeer.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/xmas_2016_elf_helper.png -O elf_helper.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/xmas_2016_santa_claus.png -O santa_claus.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/xmas_2016_polar_bear.png -O polar_bear.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/xmas_2016_penguin.png -O penguin.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/new_year_2016_flying_cork.png -O flying_cork.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/new_year_2016_happy_soda.png -O happy_soda.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/beast_fighters_goat.png -O bruiser_goat.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/beast_fighters_bunny.png -O rogue_bunny.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/beast_fighters_rhino.png -O rhino_boxer.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/beast_fighters_bull.png -O street_bull.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/beast_fighters_husky.png -O husky_brawl.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/beast_fighters_tiger.png -O kempo_tiger.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/time_travel_best_friends.png -O best_friends.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/time_travel_chrono_ranger.png -O chrono_ranger.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/time_travel_cool_agent.png -O cool_agent.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/time_travel_time_dude.png -O time_dude.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/time_travel_time_doctor.png -O time_doctor.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/friday_the_13th_2017_wicked_cat.png -O wicked_cat.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/retro_duck_target.png -O duck_target.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/retro_bubblesaurus.png -O bubblesaurus.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/retro_dynamite_guy.png -O dynamite_guy.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/retro_neon_bug.png -O neon_bug.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/retro_blue_swirl.png -O blue_swirl.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/retro_jumper.png -O jumper.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/chinese_new_year_carp.png -O carp.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/chinese_new_year_china_dragon.png -O china_dragon.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/chinese_new_year_dumpling.png -O dumpling.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/chinese_new_year_chicken.png -O chicken.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/chinese_new_year_fire_rooster.png -O fire_rooster.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rock_stars_heartbreaker.png -O heartbreaker.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rock_stars_virtuoso.png -O virtuoso.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rock_stars_rocker.png -O rocker.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rock_stars_idol.png -O idol.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rock_stars_poet.png -O poet.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rock_stars_superstar.png -O superstar.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rock_stars_bad_boy.png -O bad_boy.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/master_of_thieves_thief.png -O thief.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/master_of_thieves_sheriff.png -O sheriff.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/master_of_thieves_king.png -O king.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/master_of_thieves_merry_outlaw.png -O merry_outlaw.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/master_of_thieves_tiny_jack.png -O tiny_jack.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/master_of_thieves_jade.png -O jade.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/valentines_day_2017_choco_heart.png -O choco_heart.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/valentines_day_2017_strawberry.png -O strawberry.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/valentines_day_2017_love_arrow.png -O love_arrow.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/monthly_web_bunny.png -O bunny.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/carnival_2017_palm_tree.png -O palm_tree.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/carnival_2017_samba.png -O samba.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/carnival_2017_mountain.png -O mountain.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/carnival_2017_bird_mask.png -O bird_mask.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/carnival_2017_trickster.png -O trickster.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/carnival_2017_golden_mask.png -O golden_mask.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rock_legends_2_performer.png -O performer.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rock_legends_2_diva.png -O diva.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rock_legends_2_songsmith.png -O songsmith.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rock_legends_2_icon.png -O icon.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rock_legends_2_metal_face.png -O metal_face.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rock_legends_2_soloist.png -O soloist.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/jungle_quest_huntsman.png -O huntsman.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/jungle_quest_war_paint.png -O war_paint.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/jungle_quest_behemoth.png -O behemoth.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/jungle_quest_general.png -O general.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/jungle_quest_giant_skull.png -O giant_skull.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/jungle_quest_great_zilla.png -O great_zilla.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/st_patricks_2017_horse_boot.png -O horse_boot.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/st_patricks_2017_happy_hat.png -O happy_hat.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/st_patricks_2017_bad_clover.png -O bad_clover.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/st_patricks_2017_gold_rush.png -O gold_rush.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/st_patricks_2017_red_beard.png -O red_beard.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/st_patricks_2017_cloud_prism.png -O cloud_prism.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_aries.png -O aries.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/monthly_web_coil.png -O coil.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/excalibur_2017_cat_cauldron.png -O cat_cauldron.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/excalibur_2017_seal_knight.png -O seal_knight.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/excalibur_2017_mystic_bird.png -O mystic_bird.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/excalibur_2017_king_lion.png -O king_lion.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/excalibur_2017_excalibur.png -O excalibur.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/excalibur_2017_magic_hat.png -O magic_hat.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/april_fools_2017_funny_face.png -O funny_face.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/april_fools_2017_air_bag.png -O air_bag.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/april_fools_2017_smelly.png -O smelly.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/ghost_machine_cyber_agent.png -O cyber_agent.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/ghost_machine_droid.png -O droid.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/ghost_machine_detective.png -O detective.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/beast_fighters_ii_skin_karate_parrot.png -O karate_parrot.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/beast_fighters_ii_skin_raccoon_jutsu.png -O raccoon_jutsu.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/beast_fighters_ii_skin_frog_thai.png -O frog_thai.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/easter_2017_easter_chick.png -O easter_chick.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/easter_2017_wacky_egg.png -O wacky_egg.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/easter_2017_cool_bunny.png -O cool_bunny.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_skin_taurus.png -O taurus.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/action_heroes_v1_skin_destroyer.png -O destroyer.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/action_heroes_v1_skin_storm_fist.png -O storm_fist.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/action_heroes_v1_skin_war_hero.png -O war_hero.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/monthly_web_eyeball.png -O eyeball.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/space_pirates_starfighter.png -O starfighter.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/space_pirates_power_badger.png -O power_badger.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/space_pirates_alien_tree.png -O alien_tree.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/cinco_mayo_2017_crazy_sombrero.png -O crazy_sombrero.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/cinco_mayo_2017_maracas.png -O maracas.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/cinco_mayo_2017_hot_taco.png -O hot_taco.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/stone_age_sabertooth.png -O sabertooth.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/stone_age_silver_tusk.png -O silver_tusk.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/stone_age_primal.png -O primal.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/stone_age_amber.png -O amber.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/stone_age_stone_tool.png -O stone_tool.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/stone_age_fire_face.png -O fire_face.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_skin_gemini.png -O gemini.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/anime_wacky_hero.png -O wacky_hero.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/anime_fallen.png -O fallen.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/anime_power_girl.png -O power_girl.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/anime_skull_ribbon.png -O skull_ribbon.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/anime_eyepatch.png -O eyepatch.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/anime_mega_power.png -O mega_power.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/pet_balls_jellyfish.png -O jellyfish_ball.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/pet_balls_walrus.png -O walrus_ball.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/pet_balls_bat.png -O bat_ball.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/pet_balls_elephant.png -O elephant_ball.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/pet_balls_sheep.png -O sheep_ball.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/pet_balls_pig.png -O pig_ball.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/action_heroes_v2_apocalypse_rider.png -O apocalypse_rider.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/action_heroes_v2_eclipse_hunter.png -O eclipse_hunter.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/action_heroes_v2_universal_ranger.png -O universal_ranger.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/action_heroes_v2_slaughter.png -O slaughter.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/action_heroes_v2_slingblade.png -O slingblade.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/action_heroes_v2_the_professional.png -O the_professional.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mechanos_sonic_boom.png -O sonic_boom.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mechanos_cyber_scarab.png -O cyber_scarab.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mechanos_haste.png -O haste.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mechanos_psycho_driller.png -O psycho_driller.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mechanos_supremus.png -O supremus.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mechanos_yellow_streak.png -O yellow_streak.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mechanos_mechatron.png -O mechatron.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_cancer.png -O cancer.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/independence_day_2017_star_eagle.png -O star_eagle.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/independence_day_2017_celebration_hat.png -O celebration_hat.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/independence_day_2017_mr_boss.png -O mr_boss.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/monthly_web_fury_cat.png -O fury_cat.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/gladiators_helm.png -O helm.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/gladiators_gladiatrix.png -O gladiatrix.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/gladiators_reptilian.png -O reptilian.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/gladiators_orc_grunt.png -O orc_grunt.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/gladiators_cursed_blade.png -O cursed_blade.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/gladiators_orc_warrior.png -O orc_warrior.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_hungry.png -O hungry.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_queasy.png -O queasy.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_lovesick.png -O lovesick.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_sad.png -O sad.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_bitter.png -O bitter.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_amazed.png -O amazed.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_odd.png -O odd.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_funky.png -O funky.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_angry.png -O angry.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_1_vicious.png -O vicious.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_skin_leo.png -O leo.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_sweaty.png -O sweaty.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_wicked.png -O wicked.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_full.png -O full.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_tough.png -O tough.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_mischievous.png -O mischievous.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_dazzled.png -O dazzled.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_nerdy.png -O nerdy.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_rabid.png -O rabid.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_delighted.png -O delighted.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2017_2_cool.png -O cool.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zombie_party_dry_face.png -O dry_face.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zombie_party_crazy_brain.png -O crazy_brain.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zombie_party_zombie_dog.png -O zombie_dog.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zombie_party_zombie_party.png -O zombie_party.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zombie_party_walking_hand.png -O walking_hand.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zombie_party_the_maw.png -O the_maw.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rpg_games_rogue.png -O rogue.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rpg_games_archer.png -O archer.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rpg_games_paladin.png -O paladin.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rpg_games_mage.png -O mage.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rpg_games_scroll.png -O scroll.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rpg_games_raid_boss.png -O raid_boss.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rpg_games_healing_potion.png -O healing_potion.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/arcade_games_gold_coin.png -O gold_coin.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/arcade_games_super_car.png -O super_car.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/arcade_games_war_tank.png -O war_tank.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/arcade_games_pixel_kong.png -O pixel_kong.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/arcade_games_power_fighter.png -O power_fighter.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/arcade_games_techno_kid.png -O techno_kid.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_virgo.png -O virgo.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/war_wings.png -O war_wings.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/olympus_hercules.png -O olympus_hercules.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/olympus_poseidon.png -O olympus_poseidon.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/olympus_medusa.png -O olympus_medusa.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/olympus_hades.png -O olympus_hades.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/olympus_ares.png -O olympus_ares.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/olympus_zeus.png -O olympus_zeus.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/nvr_zap.png -O nvr_zap.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/nvr_silent_fox.png -O nvr_silent_fox.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/nvr_insectoid.png -O nvr_insectoid.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/nvr_shuriken.png -O nvr_shuriken.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/nvr_steel_ram.png -O nvr_steel_ram.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/nvr_shadow.png -O nvr_shadow.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/football_strike.png -O football_strike.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/steamworld_cogs.png -O steamworld_cogs.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/steamworld_dr_static.png -O steamworld_dr_static.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/steamworld_steam_freak.png -O steamworld_steam_freak.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/dragon_griffin.png -O dragon_griffin.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/dragon_twin.png -O dragon_twin.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/dragon_hydra.png -O dragon_hydra.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/steamworld_think_tank.png -O steamworld_think_tank.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/steamworld_can_man.png -O steamworld_can_man.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/steamworld_the_tinker.png -O steamworld_the_tinker.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/dragon_razor.png -O dragon_razor.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/dragon_haze.png -O dragon_haze.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/dragon_viper.png -O dragon_viper.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_libra.png -O zodiac_2017_libra.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/egypt_ankh.png -O egypt_ankh.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/egypt_cleopatra.png -O egypt_cleopatra.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/egypt_pharaoh.png -O egypt_pharaoh.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/egypt_egyptian_cat.png -O egypt_egyptian_cat.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/egypt_scarab.png -O egypt_scarab.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/egypt_mummy_king.png -O egypt_mummy_king.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/egypt_anubis.png -O egypt_anubis.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/samurai_shogun.png -O shogun.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/samurai_elder_master.png -O elder_master.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/samurai_geisha.png -O geisha.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/samurai_war_mask.png -O war_mask.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/samurai_rogue_samurai.png -O rogue_samurai.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/samurai_skull_samurai.png -O skull_samurai.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_skin_scorpio.png -O zodiac_2017_scorpio.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/moonlight_metal_ghoul.png -O moonlight_metal_ghoul.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/moonlight_psycho.png -O moonlight_psycho.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/moonlight_banshee.png -O moonlight_banshee.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/moonlight_wendigo.png -O moonlight_wendigo.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/moonlight_red_fiend.png -O moonlight_red_fiend.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/moonlight_night_hunter.png -O moonlight_night_hunter.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/anime_mega_mecha.png -O mega_mecha.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/anime_spinner_kid.png -O spinner_kid.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/anime_bolt_samurai.png -O bolt_samurai.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/anime_skull_bow.png -O skull_bow.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/anime_power_ninja.png -O power_ninja.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/anime_giant_human.png -O giant_human.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/monthly_web_husky.png -O husky.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/winter_snowboarder.png -O winter_snowboarder.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/winter_white_owl.png -O winter_white_owl.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/winter_goofy_yeti.png -O winter_goofy_yeti.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/winter_ice_crystal.png -O winter_ice_crystal.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/winter_dire_wolf.png -O winter_dire_wolf.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/winter_ice_lord.png -O winter_ice_lord.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_sagittarius.png -O zodiac_2017_sagittarius.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/circus_ringmaster.png -O ringmaster.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/circus_burly_man.png -O burly_man.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/circus_firespitter.png -O firespitter.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/circus_the_oracle.png -O the_oracle.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/circus_grizzly.png -O grizzly.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/circus_bullet_man.png -O bullet_man.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/circus_wicked_clown.png -O wicked_clown.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/meme_alone.png -O alone.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/meme_yuno.png -O yuno.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/meme_rage.png -O rage.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/apocalypse_the_gaunt.png -O the_gaunt.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/apocalypse_the_miasma.png -O the_miasma.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/apocalypse_the_scorcher.png -O the_scorcher.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/apocalypse_the_reaper.png -O the_reaper.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/apocalypse_skin_scythe.png -O scythe.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/apocalypse_skin_soul_hunter.png -O soul_hunter.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/apocalypse_skin_warhorse.png -O warhorse.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/santa_mad_cap.png -O mad_cap.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/santa_raspy_elf.png -O raspy_elf.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/santa_zany_tree.png -O zany_tree.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/santa_rocket_deer.png -O rocket_deer.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/santa_snow_biker.png -O snow_biker.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/santa_bad_santa.png -O bad_santa.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2017_skin_capricorn.png -O zodiac_2017_capricorn.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/last_master_space_warrior.png -O last_master_space_warrior.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/last_master_roller_bot.png -O last_master_roller_bot.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/last_master_duel_master.png -O last_master_duel_master.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/last_master_elite_pilot.png -O last_master_elite_pilot.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/last_master_cyber_commando.png -O last_master_cyber_commando.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/last_master_red_pulse.png -O last_master_red_pulse.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/alien_spogh.png -O spogh.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/alien_shrieker.png -O shrieker.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/alien_moon_alisa.png -O moon_alisa.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/party_time.png -O party_time.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/party_mode.png -O party_mode.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/artshop_pencil.png -O pencil.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/artshop_splatter.png -O splatter.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/artshop_gouache.png -O gouache.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2018_aquarius.png -O zodiac_2018_aquarius.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/walrus_art.png -O walrus_art.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/cave_painting.png -O cave_painting.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/future_art.png -O future_art.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/groovy_canvas.png -O groovy_canvas.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/space_ink.png -O space_ink.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/alien_artist.png -O alien_artist.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_nicedoggy.png -O nice_doggy.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_cavetroll.png -O cave_troll.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_crazyeye.png -O crazy_eye.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/cog_attack.png -O cog_attack.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/power_glove.png -O power_glove.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/burner.png -O burner.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/som_circle.png -O circle.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/som_coolguy.png -O cool_guy.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/som_furious.png -O furious.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mgs_ada.png -O ada.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mgs_watson.png -O watson.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mgs_steamdiver.png -O steam_diver.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zodiac_2018_pisces.png -O zodiac_2018_pisces.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mgs_crazy_bolt.png -O crazy_bolt.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mgs_mechanicat.png -O mechanicat.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mgs_steam_mask.png -O steam_mask.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_flyingsaucer.png -O flying_saucer.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_infernus.png -O infernus.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_shadowman.png -O shadow_man.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/tms_soceress.png -O sorceress.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/tms_gnomemage.png -O gnome_mage.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/tms_elvennoble.png -O elven_noble.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/som_teatime.png -O tea_time.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/som_necktiecat.png -O necktie_cat.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/som_bigeyes.png -O big_eyes.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/tms_forestspirit.png -O forest_spirit.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/tms_sillygriffin.png -O silly_griffin.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/tms_rowdyshroom.png -O rowdy_shroom.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/tms_skullartifact.png -O skull_artifact.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/tms_candlelight.png -O candlelight.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/tms_troldir.png -O troldir.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/tms_spikeflower.png -O spike_flower.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/tms_sunflower.png -O sunflower.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/tms_hornet.png -O hornet.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_wolfsigil.png -O wolf_sigil.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_eternalsnake.png -O eternal_snake.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_pyramideye.png -O pyramid_eye.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/fss_sweettendril.png -O sweet_tendril.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/fss_jellybear.png -O jelly_bear.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/fss_candytroll.png -O candy_troll.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/som_theorist.png -O theorist.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/som_grandma.png -O grandma.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/som_chirpyraptor.png -O chirpy_raptor.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/fss_sourcandy.png -O sour_candy.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/fss_sugardash.png -O sugar_dash.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/fss_chipcookie.png -O chip_cookie.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/fss_slartie.png -O slartie.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/fss_madmuffin.png -O mad_muffin.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/fss_candygenius.png -O candy_genious.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_omega.png -O omega.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_frosthand.png -O frost_hand.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_radicalsmile.png -O radical_hand.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v1_bull_skull.png -O bull_skull.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v1_the_stranger.png -O the_stranger.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v1_wild_pepper.png -O wild_pepper.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/cookie_mouse.png -O cookie_mouse.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/planet_cat.png -O planet_cat.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/poker_ace.png -O poker_ace.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/vampy.png -O vampy.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/fox_mask.png -O fox_mask.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/love_cat.png -O love_cat.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mr_goose.png -O mr_goose.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/nutcracker.png -O nutcracker.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/piglet.png -O piglet.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/lava_beast.png -O lava_beast.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/astral_deer.png -O astral_deer.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/bionic_ram.png -O bionic_ram.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/hyper_coffee.png -O hyper_coffee.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v2_suplex.png -O suplex.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v2_mariachi.png -O mariachi.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v2_feather_dragon.png -O feather_dragon.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_v4_surprised_cat.png -O surprised_cat.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_v4_idea.png -O idea.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_v4_clever.png -O clever.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v3_dynamite.png -O dynamite.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v3_cactus_flower.png -O cactus_flower.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v3_pepe_loco.png -O pepe_loco.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_lead.png -O lead.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_wolfpaw.png -O wolf_paw.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_helmet.png -O helmet.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mjzs_skullswords.png -O skull_swords.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mjzs_surfinbird.png -O surfin_bird.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mjzs_jellydiver.png -O jelly_diver.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/june_merchant_v2_power_mask.png -O power_mask.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/june_merchant_v2_spike_fish.png -O spike_fish.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/june_merchant_v2_cool_lion.png -O cool_lion.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/bootlegger.png -O bootlegger.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/deadly_piranha.png -O deadly_piranha.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/madjawz.png -O madjawz.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_v5_heavy_metal.png -O heavy_metal.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_v5_prankster.png -O prankster.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_v5_wacky_hyena.png -O wacky_hyena.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_ice_griffin.png -O ice_griffin.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_golden_axe.png -O golden_axe.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_demonic_helmet.png -O demonic_helmet.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/july_merchant_v1_caribbean_corsair.png -O caribbean_corsair.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/july_merchant_v1_deathly_mine.png -O deathly_mine.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/july_merchant_v1_fake_chest.png -O fake_chest.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/july_merchant_v2_mecha_toad.png -O mecha_toad.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/july_merchant_v2_mecha_parrot.png -O mecha_parrot.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/july_merchant_v2_mecha_destroyer.png -O mecha_destroyer.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthday_2018_birthday_blob.png -O birthday_blob.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/grumpy_frog.png -O grumpy_frog.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/tooth_troll.png -O tooth_troll.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/birthosaur.png -O birthosaur.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/captain_joe.png -O capn_joe.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/eager_alien.png -O eager_alien.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/guardian.png -O guardian.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_death_mouse.png -O death_mouse.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_killer_mask.png -O killer_mask.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_egyptian_plague.png -O egyptian_plague.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/bountyhunter_neptunus_spider.png -O neptunus_spider.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/bountyhunter_mutant_herb.png -O mutant_herb.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/merchant_electronic_girl.png -O electronic_girl.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/merchant_techno_ninja.png -O techno_ninja.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/merchant_cyber_punk.png -O cyber_punk.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/fantasy_portal_princess_swift.png -O princess_swift.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/fantasy_portal_dark_sorceress.png -O dark_sorceress.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/august_merchant_cyber_demon.png -O cyber_demon.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/august_merchant_cyber_psychic.png -O cyber_psychic.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/august_merchant_cyber_monk.png -O cyber_monk.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_guinea_pig.png -O guinea_pig.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_bad_pigeon.png -O bad_pigeon.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/skinomatic_awkward.png -O awkward.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/august_merchant_bass_bomb.png -O bass_bomb.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/august_merchant_techno_quack.png -O techno_quack.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/august_merchant_electro_jelly.png -O electro_jelly.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/august_merchant_lightning.png -O lightning.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/august_merchant_techno_kat.png -O techno_kat.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/august_merchant_bionic.png -O bionic.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_fallen_one.png -O fallen_one.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_midnight_yeti.png -O midnight_yeti.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_defiled_scarecrow.png -O defiled_scarecrow.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/bountyhunter_leech.png -O leech.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/bountyhunter_metal_scorpion.png -O metal_scorpion.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/september_merchant_mad_fragment.png -O mad_fragment.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/september_merchant_ancient_relic.png -O ancient_relic.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/zula_gorgan.png -O zula_gorgon.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/goddess_aona.png -O goddess_aona.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/evil_genie.png -O evil_genie.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/divine_pearl.png -O divine_pearl.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/unknown_totem.png -O unknown_totem.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mr_strange.png -O mr_strange.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mr_puzzled.png -O mr_puzzled.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mr_charming.png -O mr_charming.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/dumboon.png -O dumboon.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/ark_raider.png -O ark_raider.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/diamonds.png -O diamonds.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_spectral_owl.png -O spectral_owl.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_fire_golem.png -O fire_golem.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_cursed_samurai.png -O cursed_samurai.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/araneaphyx.png -O araneaphyx.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/necro_strangler.png -O necro_strangler.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/bewitched.png -O bewitched.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/monday_worker.png -O monday_worker.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/nightmare.png -O nightmare.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/wisgarus_dragonslayer.png -O wisgarus_dragonslayer.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/ironfist_titus.png -O ironfist_titus.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/wicked_vendetta.png -O wicked_vendetta.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mexican_skull.png -O mexican_skull.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/frankie.png -O frankie.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/blobby_boy.png -O blobby_boy.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/dracool.png -O dracool.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/silent_nun.png -O silent_nun.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/minotaur.png -O minotaur.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/golf_battle.png -O golf_battle.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/beetoothven.png -O beetoothven.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/tape_guy.png -O tape_guy.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/chillpanzee.png -O chillpanzee.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/psychopanda.png -O psychopanda.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/punk.png -O punk.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/wasted_mouse.png -O wasted_mouse.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/mr_spanks.png -O mr_spanks.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/rastafari.png -O rastafari.png
+wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/beat_box.png -O beat_box.png
