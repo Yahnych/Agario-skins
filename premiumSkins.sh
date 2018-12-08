@@ -1,4 +1,4 @@
-configVersion=v9/1819
+configVersion=v12/1833
 wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Banana.png -O banana.png
 wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Cookie.png -O cookie.png
 wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/Jupiter.png -O jupiter.png
