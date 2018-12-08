@@ -1,4 +1,4 @@
-configVersion=v9/1819
+configVersion=v12/1833
 wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/poland.png -O poland.png
 wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/usa.png -O usa.png
 wget -q https://configs-web.agario.miniclippt.com/live/$configVersion/china.png -O china.png
