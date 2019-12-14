@@ -1,4 +1,4 @@
-configVersion=v15/2437
+configVersion=v15/2515
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/poland.png -O poland.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/usa.png -O usa.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/china.png -O china.png > /dev/null 2>&1
@@ -170,3 +170,7 @@ wget https://configs-web.agario.miniclippt.com/live/$configVersion/Majnoon.png -
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Skills.png -O Skills.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Sonic.png -O Sonic.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Woobs.png -O Woobs.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/52k.png -O 52k.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/statik.png -O statik.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/xxnetro2.png -O xxnetro2.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/yemeni.png -O yemeni.png > /dev/null 2>&1
